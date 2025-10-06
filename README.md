@@ -1,2 +1,2 @@
-# Proyecto-React-Motos
-Sitio básico hecho con React con la temática de motos.
+# Proyecto-React-Landing
+Landing que fue creado con React para practicar conceptos básicos de React.
